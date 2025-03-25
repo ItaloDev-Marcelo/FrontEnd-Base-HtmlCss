@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> UTILIZANDO AS VARIÁVEIS CSS</title>
+    <style>
+     :root{
+        --bg-color: blue;
+        --text-color:#fff;
+        --pd--interno: 20px;
+
+        --bg-color-inverte: orange;
+        --texto-color:#fff;
+        --texto-color-2:red;
+        --pd--interno-2: 15px;
+     }
+
+     #div1{
+       background-color: var(--bg-color);
+       color: var(--bg-color-inverte);
+       padding: var(--pd--interno);
+     }
+
+     #div2{
+        background-color: var(--bg-color-inverte);
+        color: var(--texto-color);
+        padding: var(--pd--interno-2);
+     }
+
+     #div3{
+       background-color: var(--bg-color);
+       color: var(--text-color-2);
+       padding: var(--pd--interno);
+     }
+    </style>
+</head>
+<body>
+    <div id="div1">
+        <p> UTILIZANDO AS VARIÁVEIS CSS  UTILIZANDO AS VARIÁVEIS CSS  UTILIZANDO AS VARIÁVEIS CSS  UTILIZANDO AS VARIÁVEIS CSS</p>
+    </div>
+    <div id="div2">
+        <p> UTILIZANDO AS VARIÁVEIS CSS  UTILIZANDO AS VARIÁVEIS CSS  UTILIZANDO AS VARIÁVEIS CSS  UTILIZANDO AS VARIÁVEIS CSS</p>
+    </div>
+    <div id="div3">
+        <p> UTILIZANDO AS VARIÁVEIS CSS  UTILIZANDO AS VARIÁVEIS CSS  UTILIZANDO AS VARIÁVEIS CSS  UTILIZANDO AS VARIÁVEIS CSS</p>
+    </div>
+</body>
+</html>

@@ -1,0 +1,13 @@
+*{
+  font-size: 100%;
+}
+
+p{
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: normal;
+  font-style: oblique;
+  font-size: 1em;
+}
+
+
+/*40px (alvo) / 16px (contexto) = 2.5em*/

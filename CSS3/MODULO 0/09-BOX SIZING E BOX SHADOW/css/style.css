@@ -1,0 +1,10 @@
+#conteudo{
+  background-color: red;
+  width: 300px;
+  padding: 20px;
+  box-sizing: border-box;
+  /*box-sizing e usado para quando voce usar o padding ele nao aumentar
+   o tamanho definido no width */
+ /*box-shadow  1 posiçao horizonta 10px 2 posição vertical 10px 3 posicao o blur 5px e na 4  a cor*/
+  box-shadow: 10px 10px 5px  pink;
+}

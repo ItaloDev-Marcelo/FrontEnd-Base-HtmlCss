@@ -1,0 +1,9 @@
+#cores{
+  width: 200px;
+  height: 200px;
+  background:radial-gradient(red,green,pink);
+  /*linear-gradient criar uma linha com
+   (to right ou to left ou qualquer outra direcao mudar a
+    direcao das cores e tambem usar 50deg que seria 50 graus*/
+}
+

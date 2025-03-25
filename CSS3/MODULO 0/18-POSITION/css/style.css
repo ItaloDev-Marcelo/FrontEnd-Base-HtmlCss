@@ -1,0 +1,19 @@
+#conteudo{
+  width: 600px;
+  height: 1200px;
+  background-color: purple;
+}
+
+#texto{
+  width: 500px;
+  position: relative;
+  left: 0;
+  top: 40px;
+  background-color: aqua;
+  /*o position define a posição de uma div ou imagens 
+  temos mais liberdade do que usando o float 
+  pois podemos psicionar a div ou a 
+  imagem em qualquer lugar da sua pagina
+  temos como as posicao top,left,right,bottom  e 
+  tambem relative absolute e fixed*/
+}

@@ -1,0 +1,20 @@
+#exemplo{
+  width: 200px;
+  height: 200px;
+  background-color: aqua;
+  transition:all 2s linear;
+}
+
+#exemplo:hover{
+   width: 350px;
+   height: 350px;
+   background-color: red;
+}
+
+/* temos 
+  e o atalho transition:all 2s linear;
+  transition-property: width; larura
+  transition-duration: 2s; duracao
+  transition-timing-function: ease ease-in ease-in-out ease-out linear; como a transiçaõ ira acontecer
+  transition-delay: 2s; tempo de espera para iniciar a trasição
+  */

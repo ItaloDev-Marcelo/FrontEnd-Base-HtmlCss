@@ -1,0 +1,12 @@
+body{
+  background:url(./nature.jpg) center/100% 100% no-repeat fixed;
+}
+
+/* 
+  background-image:url();
+  background-repeat: none;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  ou voce pode abreviar
+  background:url(./nature.jpg) center/100% 100% no-repeat fixed;
+*/

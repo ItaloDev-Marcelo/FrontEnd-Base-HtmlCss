@@ -1,0 +1,13 @@
+*{
+  font-size: 100%;
+}
+
+p{
+  font-family: 'Poppins', sans-serif;
+  font-weight: normal;
+  font-style: oblique;
+  font-size: 1em;
+}
+
+
+/*40px (alvo) / 16px (contexto) = 2.5em*/

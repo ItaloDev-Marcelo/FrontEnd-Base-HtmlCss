@@ -1,0 +1,32 @@
+ /*text-tranform tem algumas propriedades =
+  uppercase lowercase capitalize
+ */
+
+p {
+  color: red;
+  text-transform: capitalize;
+ }
+
+ /*text-aligh tem trees proriedades = left right center justify*/
+
+
+ /*text-decoration tem algumas propriedades =
+  underline overline  line-through and none
+ */
+
+
+
+ h1{
+  text-align: left;
+  text-decoration: underline;
+ }
+
+ h2{
+  text-align: right;
+  text-decoration: overline;
+ }
+
+ h3{
+  text-align: center;
+  text-decoration: line-through;
+ }

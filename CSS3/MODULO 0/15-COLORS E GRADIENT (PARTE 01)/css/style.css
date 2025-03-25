@@ -1,0 +1,9 @@
+#cores{
+  width: 200px;
+  height: 200px;
+  background-color: hsla(20, 100%, 59%,0.2);
+}
+
+/*voce pode usar codigos hexadecimais #11jg0 ou
+ nomes pre definidos red  Podemos usar RGB()  ou RGBA() 
+tambem temos o hsl() e hsla(a significa saturação) row satureter liner*/

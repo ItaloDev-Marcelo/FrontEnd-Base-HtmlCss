@@ -1,0 +1,34 @@
+
+/*Text-indent cirar recue na primeira linha*/
+/*line-height altura da linha*/
+/*direction mudar a direção das letras = ltr = left to right, rtl = right to left */
+/*latter-spacing espaço entre as letras*/
+/*word-spacing espaço entre as palavras*/
+/*text-shadow posicao horizontal 3px posicao vertical 3px desfoque 4px cor da sombra red*/
+p {
+  color: red;
+  text-transform: capitalize;
+  text-indent: 20px;
+  line-height: 25px;
+  direction: ltr;
+  word-spacing: 4px;
+  text-shadow: 3px 3px red;
+  word-break: break-all;
+ }
+
+
+ h1{
+  text-align: left;
+  text-decoration: underline;
+ 
+ }
+
+ h2{
+  text-align: right;
+  text-decoration: overline;
+ }
+
+ h3{
+  text-align: center;
+  text-decoration: line-through;
+ }

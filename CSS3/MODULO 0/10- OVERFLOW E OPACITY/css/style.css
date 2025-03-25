@@ -1,0 +1,14 @@
+#conteudo{
+  background-color: purple;
+  width: 300px;
+  height: 70px;
+  overflow: hidden;
+  /*overflow = visible e padrão o hidden esconde oq
+   estiver pasando da div  scroll criar barra de rolagem 
+   vertical e horizontais auto define melhor a barra de rolagem*/
+}
+
+#conteudo p{
+  /*opacity define a opacidade deixando o mais claro ou invisivel*/
+  opacity:0.5 ;
+}

@@ -1,0 +1,15 @@
+
+/*para definir o tamanho fixo width ou haight ou os dois*/
+
+#conteudo{
+  min-width: 500px;
+  min-height: 10px;
+/*Podemos definir tamanho max and min do width e do height min-width max-width min-height max-height*/
+  background-color: blueviolet;
+  color: white;
+  padding: 20px;
+}
+
+
+
+

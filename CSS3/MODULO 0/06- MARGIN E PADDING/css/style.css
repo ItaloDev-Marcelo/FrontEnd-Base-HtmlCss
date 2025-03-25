@@ -1,0 +1,28 @@
+
+/*Margi no caso externo = margi ordem = 
+  margin-top: ;
+  margin-left: ;
+  margin-right: ;
+  margin-bottom: ;*/
+
+#exemplo2{
+  background-color: purple;
+  color: #fff;
+  width: 500px;
+  margin:20px 30px 20px 40px;
+}
+
+/*Espacamento interno = padding  ordem = 
+  padding-top: ;
+  padding-right: ;
+  padding-bottom: ;
+  padding-left: ; */
+
+#exemplo{
+  background-color: green;
+  color: #fff;
+  width: 500px;
+  padding: 10px 20px 30px 30px;
+}
+
+

@@ -1,0 +1,10 @@
+#exemplo{
+   border: 1px solid red;
+   outline: dotted 5px green;
+}
+/*border interno outline externo*/
+
+/*border-style temos o dashed,dotted,double,
+ groove,solid,ridset,inset,outset*/
+/*border-width define a lagura da borda*/
+/*border-color define a cor temos uma abreviação border: 1px solid red;*/

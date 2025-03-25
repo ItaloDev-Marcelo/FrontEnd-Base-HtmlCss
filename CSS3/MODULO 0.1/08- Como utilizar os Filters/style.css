@@ -1,0 +1,9 @@
+img{
+    margin: 40px 0 0 60px;
+    filter:  drop-shadow(10px 20px 5px #000) contrast(150%);
+    /*drop-shadow 1 horizontal 2 vertical 3 desfoque o 4 e ultimo a cor
+    filter: none | blur() | brightness() | contrast() 
+    | drop-shadow() | grayscale() | hue-rotate()
+     | invert() | opacity() | saturate() | sepia() | url()
+    */
+}

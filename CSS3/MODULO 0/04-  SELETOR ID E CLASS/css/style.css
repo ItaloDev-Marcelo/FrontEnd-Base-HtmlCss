@@ -1,0 +1,21 @@
+.texto-principal {
+    color: #ff0000;
+    text-align: center;
+}
+
+/*Class pode e atribuido a mais de um Elemento e pode ser reutilizavel*/
+.fundo-principal{
+    background-color: aqua;
+    padding: 20px;
+}
+
+/*o id so pode se atribuido a 1 so elemento na pagina*/
+
+#conteudo{
+  background-color: blueviolet;
+  padding: 20px;
+  color: white;
+}
+
+
+

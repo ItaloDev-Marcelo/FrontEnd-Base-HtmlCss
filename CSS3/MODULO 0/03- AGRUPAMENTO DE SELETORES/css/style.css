@@ -1,0 +1,45 @@
+
+/*AULA 2*/
+
+/*ESSE e um seletor universal*/
+*{
+    margin: 0;
+    padding: 0;
+    color: red;
+}
+
+/*Seletor tipo tag*/
+h1{
+    font-size: 60px;
+    font-family: tahoma;
+}
+
+p{
+    color: green;
+    font-size: 12px;
+}
+
+/*Seletor atributo*/
+
+input[type="text"]{
+    width: 200px;
+    background-color: aqua;
+    height: 40px;
+    border: none;
+}
+
+input[name="email"]{
+    width: 200px;
+    background-color: pink;
+    height: 40px;
+    border: none;
+}
+
+input[type="submit"]{
+    width: 50px;
+    background-color: red;
+    height: 35px;
+    border: none;
+    cursor: pointer;
+    color: white;
+}

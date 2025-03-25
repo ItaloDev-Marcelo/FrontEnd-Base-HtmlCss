@@ -1,0 +1,13 @@
+*{
+  font-size: 100%;
+}
+
+@font-face {
+  font-family: open_sans;
+  src: url(MontserratAlternates-BlackItalic.otf);
+}
+
+p{
+  font-family: open_sans;
+  font-size: 2em;
+}
